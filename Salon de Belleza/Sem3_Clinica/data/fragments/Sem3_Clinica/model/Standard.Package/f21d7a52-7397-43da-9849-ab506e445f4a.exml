@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RA_MantenerCajero" version="4">
+  <OBJECT>
+    <ID name="RA_MantenerCajero" mc="Standard.Package" uid="f21d7a52-7397-43da-9849-ab506e445f4a"/>
+    <PID name="Cajero" mc="Standard.Package" uid="df12cdf9-cab1-44b1-aa24-a41ed25af890"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RA_MantenerCajero]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Communication Interaction" mc="Standard.CommunicationInteraction" uid="78e518bb-1c1c-485c-bb03-c0856d6eed2c"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="CL_MenuPrincipal" mc="Standard.Class" uid="f356fdda-061c-470e-b877-8e3afea80f8a"/>
+        <COMPID name="CL_MantenerCajero" mc="Standard.Class" uid="43f545c2-b631-4ac3-8135-dd3135ec613c"/>
+        <COMPID name="CL_Cajero" mc="Standard.Class" uid="9b75534c-e76a-4cc9-afe3-8fb80efe12d0"/>
+        <COMPID name="CC__Cajero" mc="Standard.Class" uid="8adef0aa-5572-40d1-8375-2cf7eed3b5d0"/>
+        <COMPID name="Cajero" mc="Standard.Class" uid="bdd0e573-6cbe-4a94-ae92-2f97c3d762fb"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de Clases del Analisis" mc="Standard.ClassDiagram" uid="b215f3dd-4aaf-41df-a828-d151562722d5"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

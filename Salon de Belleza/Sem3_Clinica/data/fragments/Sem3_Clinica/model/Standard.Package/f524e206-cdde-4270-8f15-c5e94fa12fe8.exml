@@ -1,0 +1,49 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Cita" version="4">
+  <OBJECT>
+    <ID name="Cita" mc="Standard.Package" uid="f524e206-cdde-4270-8f15-c5e94fa12fe8"/>
+    <PID name="Realizacion del analisis" mc="Standard.Package" uid="28867d91-35d9-4e97-9f42-a9493e3d7017"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Cita]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedImport">
+        <OBJECT>
+          <ID name="ElementImport" mc="Standard.ElementImport" uid="e333127f-5dc4-4d8a-9c43-a818c9ab273d"/>
+          <ATTRIBUTES>
+            <ATT name="Visibility">Private</ATT>
+            <ATT name="Name"><![CDATA[ElementImport]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="ImportedElement">
+              <ID name="Médico" mc="Standard.Package" uid="af2eeddc-98f7-4e55-a3f5-365802f5c804"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+        <OBJECT>
+          <ID name="ElementImport" mc="Standard.ElementImport" uid="e749cb5b-ffbd-40ab-9635-6909a8651a92"/>
+          <ATTRIBUTES>
+            <ATT name="Visibility">Private</ATT>
+            <ATT name="Name"><![CDATA[ElementImport]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="ImportedElement">
+              <ID name="Paciente(HC)" mc="Standard.Package" uid="28cd3706-697d-490d-a3dd-43e8e8ff5b6c"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="RA_GeneraraCita" mc="Standard.Package" uid="3f0a5fbc-3571-4079-a851-d205b06c2d21"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sem3_Clinica" version="4">
+  <OBJECT>
+    <ID name="Sem3_Clinica" mc="Infrastructure.DiagramSet" uid="5ecdfe56-0265-48f3-9073-06ff0b337fed"/>
+    <PID name="Sem3_Clinica" mc="Standard.Project" uid="6f9e3402-a988-4b55-bcf4-370a1e101555"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[Sem3_Clinica]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

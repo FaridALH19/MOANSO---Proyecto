@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RA_PacienteHC" version="4">
+  <OBJECT>
+    <ID name="RA_PacienteHC" mc="Standard.Package" uid="a8078d5f-0efe-4198-b7c9-158d23d04da9"/>
+    <PID name="Paciente(HC)" mc="Standard.Package" uid="28cd3706-697d-490d-a3dd-43e8e8ff5b6c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RA_PacienteHC]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Communication Interaction" mc="Standard.CommunicationInteraction" uid="f1efd34e-15fc-420b-9873-6497415a4efe"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

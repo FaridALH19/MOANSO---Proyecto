@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo de Análisis" version="4">
+  <OBJECT>
+    <ID name="Modelo de Análisis" mc="Standard.Package" uid="44753d3d-ff11-41ad-bb02-2f7dbbdc57ff"/>
+    <PID name="Sem3_Clinica" mc="Standard.Project" uid="6f9e3402-a988-4b55-bcf4-370a1e101555"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelo de Análisis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Arquitectura del Análisis" mc="Standard.Package" uid="457c1941-dcd7-48ee-8c91-9a043a9415d4"/>
+        <COMPID name="Realizacion del analisis" mc="Standard.Package" uid="28867d91-35d9-4e97-9f42-a9493e3d7017"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MCUN" version="4">
+  <OBJECT>
+    <ID name="MCUN" mc="Standard.Package" uid="4f6cb4ed-546a-447d-b680-748c7ed55dfe"/>
+    <PID name="Salon de Belleza (Milli's)" mc="Standard.Package" uid="900c493f-cd05-4c15-93e6-997784b2d440"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MCUN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ON" mc="Standard.Package" uid="969a9597-9186-4e72-a4b8-230f5c50270b"/>
+        <COMPID name="CUN" mc="Standard.Package" uid="f756a2c2-3027-471b-9521-3e7facde0229"/>
+        <COMPID name="AN" mc="Standard.Package" uid="93fb7ba0-f6ff-4693-9c2c-0b91a6c51ce7"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="MCUN" mc="Infrastructure.Stereotype" uid="c308af7e-0712-464c-842b-571f3d0b6d7f"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Diagrama General de Caso de Uso del Negocio" mc="Standard.UseCaseDiagram" uid="fe60bf22-a359-4e83-b6fb-df5d4accdae1"/>
+        <COMPID name="Diagrama ON vs CUN" mc="Standard.ClassDiagram" uid="f5eb5b81-228f-4a1f-8224-ea477ba9088e"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

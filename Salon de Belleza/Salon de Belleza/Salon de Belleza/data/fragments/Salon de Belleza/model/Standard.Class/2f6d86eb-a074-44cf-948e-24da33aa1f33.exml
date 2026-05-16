@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Garantizar el registro del 100% de las ventas y pagos realizados en el salón antes de octubre de 2026." version="4">
+  <OBJECT>
+    <ID name="Garantizar el registro del 100% de las ventas y pagos realizados en el salón antes de octubre de 2026." mc="Standard.Class" uid="2f6d86eb-a074-44cf-948e-24da33aa1f33"/>
+    <PID name="ON" mc="Standard.Package" uid="969a9597-9186-4e72-a4b8-230f5c50270b"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Garantizar el registro del 100% de las ventas y pagos realizados en el salón antes de octubre de 2026.]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="ON" mc="Infrastructure.Stereotype" uid="ebdca291-416a-435b-8337-457bd2213580"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

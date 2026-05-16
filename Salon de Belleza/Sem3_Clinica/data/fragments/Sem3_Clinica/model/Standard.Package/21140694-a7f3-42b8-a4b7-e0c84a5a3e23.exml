@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelo de Caso de Uso" version="4">
+  <OBJECT>
+    <ID name="Modelo de Caso de Uso" mc="Standard.Package" uid="21140694-a7f3-42b8-a4b7-e0c84a5a3e23"/>
+    <PID name="Sem3_Clinica" mc="Standard.Project" uid="6f9e3402-a988-4b55-bcf4-370a1e101555"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelo de Caso de Uso]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Actor" mc="Standard.Package" uid="6fc54ec3-5148-4013-9eba-fa1806813daf"/>
+        <COMPID name="Caso de Uso" mc="Standard.Package" uid="c971df7a-4e4d-4473-b5f6-92a5d4aaaa65"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama General de Caso de Uso" mc="Standard.UseCaseDiagram" uid="cb4cbcc8-0a16-4d8e-a24a-c5eb95243bbe"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

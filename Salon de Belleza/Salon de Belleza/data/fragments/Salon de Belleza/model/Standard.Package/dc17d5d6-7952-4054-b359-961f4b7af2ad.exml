@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RN_Productividad de Personal" version="4">
+  <OBJECT>
+    <ID name="RN_Productividad de Personal" mc="Standard.Package" uid="dc17d5d6-7952-4054-b359-961f4b7af2ad"/>
+    <PID name="RN" mc="Standard.Package" uid="ef9e5c6d-7abe-480e-9ddf-e6de6dbac61a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RN_Productividad de Personal]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Activity" mc="Standard.Activity" uid="210bee20-6e31-426d-8ab8-7663841377a6"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

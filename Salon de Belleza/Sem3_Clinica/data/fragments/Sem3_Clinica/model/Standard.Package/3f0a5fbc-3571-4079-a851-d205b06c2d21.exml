@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RA_GeneraraCita" version="4">
+  <OBJECT>
+    <ID name="RA_GeneraraCita" mc="Standard.Package" uid="3f0a5fbc-3571-4079-a851-d205b06c2d21"/>
+    <PID name="Cita" mc="Standard.Package" uid="f524e206-cdde-4270-8f15-c5e94fa12fe8"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RA_GeneraraCita]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Communication Interaction" mc="Standard.CommunicationInteraction" uid="32d9ec5f-44dc-4faa-aac8-2984064cf296"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="CL_MenuPrincipal" mc="Standard.Class" uid="ccff6fe2-c316-4aae-9ce2-ab515f033e8c"/>
+        <COMPID name="CL_Cita" mc="Standard.Class" uid="08623698-5264-4f22-ab51-da8ef76af351"/>
+        <COMPID name="CC_Cita" mc="Standard.Class" uid="cc80a6b7-da1a-45bc-9c93-a958eb5f1c54"/>
+        <COMPID name="Paciente" mc="Standard.Class" uid="aee3ba84-d924-45de-917c-84cc8c8adb2b"/>
+        <COMPID name="Cita" mc="Standard.Class" uid="6aa7f47d-162c-4337-b070-1e9c3f17c9b5"/>
+        <COMPID name="Medico" mc="Standard.Class" uid="70ff1a13-bb3b-49cd-a078-3142e9ef7bd0"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de clases de Analisis" mc="Standard.ClassDiagram" uid="91901a98-dddf-4214-9f0b-0ee30616e125"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

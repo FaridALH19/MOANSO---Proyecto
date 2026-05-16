@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LocalProfile" version="4">
+  <OBJECT>
+    <ID name="LocalProfile" mc="Infrastructure.Profile" uid="64aca67f-0de3-48fa-93fb-e9c488756b9b"/>
+    <PID name="LocalModule" mc="Infrastructure.ModuleComponent" uid="b4e9c648-b338-4cc2-a3b5-358a9996dfcb"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[LocalProfile]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="MCUN" mc="Infrastructure.Stereotype" uid="74fcb56b-93b0-4719-8335-2755a5a6c7a1"/>
+        <COMPID name="AN" mc="Infrastructure.Stereotype" uid="a86e965b-8084-4d34-a8b6-1d418c9c63b6"/>
+        <COMPID name="CUN" mc="Infrastructure.Stereotype" uid="1b6ed30e-532a-46be-96e5-f0d707798c2d"/>
+        <COMPID name="ON" mc="Infrastructure.Stereotype" uid="7b092997-d64e-49ce-a97b-74ee70b3a4d6"/>
+        <COMPID name="Interfaz" mc="Infrastructure.Stereotype" uid="70c91a97-b464-46e4-b738-6b21e0bc5fa3"/>
+        <COMPID name="Control" mc="Infrastructure.Stereotype" uid="e59fc960-3b28-4d03-9417-31188f8af5d1"/>
+        <COMPID name="Entity" mc="Infrastructure.Stereotype" uid="68da6d03-3986-44e2-9b7a-bc3f094f3481"/>
+        <COMPID name="Analisis" mc="Infrastructure.Stereotype" uid="ba818976-3927-49c3-bfda-62a937b7506d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

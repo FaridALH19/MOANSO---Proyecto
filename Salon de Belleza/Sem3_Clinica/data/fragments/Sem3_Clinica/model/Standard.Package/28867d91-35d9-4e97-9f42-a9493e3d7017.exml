@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Realizacion del analisis" version="4">
+  <OBJECT>
+    <ID name="Realizacion del analisis" mc="Standard.Package" uid="28867d91-35d9-4e97-9f42-a9493e3d7017"/>
+    <PID name="Modelo de Análisis" mc="Standard.Package" uid="44753d3d-ff11-41ad-bb02-2f7dbbdc57ff"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Realizacion del analisis]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Médico" mc="Standard.Package" uid="af2eeddc-98f7-4e55-a3f5-365802f5c804"/>
+        <COMPID name="Cajero" mc="Standard.Package" uid="df12cdf9-cab1-44b1-aa24-a41ed25af890"/>
+        <COMPID name="Cita" mc="Standard.Package" uid="f524e206-cdde-4270-8f15-c5e94fa12fe8"/>
+        <COMPID name="Caja" mc="Standard.Package" uid="6a233012-33f4-4fa6-b82d-d67f8da1779a"/>
+        <COMPID name="Paciente(HC)" mc="Standard.Package" uid="28cd3706-697d-490d-a3dd-43e8e8ff5b6c"/>
+        <COMPID name="Comprobante Pago" mc="Standard.Package" uid="a10f0cfa-e426-4371-8f06-b9658be72ff5"/>
+        <COMPID name="Orden Atención" mc="Standard.Package" uid="8f4d80d6-0a77-42c0-b0c7-336389827d47"/>
+        <COMPID name="Ctas por Pagar" mc="Standard.Package" uid="b19b5422-7f1c-4e90-b0d7-4a7018d64d53"/>
+        <COMPID name="Entrega Medicamentos" mc="Standard.Package" uid="b8e626a0-8b0e-4e32-941f-277fd6541a4d"/>
+        <COMPID name="Seguridad" mc="Standard.Package" uid="3d69f629-5d04-42f1-bcee-43f7bedb4989"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Obtener el Control total de consultorios para finales del 2026" version="4">
+  <OBJECT>
+    <ID name="Obtener el Control total de consultorios para finales del 2026" mc="Standard.Class" uid="d13df512-d4ce-4198-bb2d-d5c7f3eb377d"/>
+    <PID name="ON" mc="Standard.Package" uid="895a766b-efad-465e-9e63-e12d031116ee"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Obtener el Control total de consultorios para finales del 2026]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedImport">
+        <OBJECT>
+          <ID name="ElementImport" mc="Standard.ElementImport" uid="7b164bd2-486d-445e-9611-d218da2490f3"/>
+          <ATTRIBUTES>
+            <ATT name="Visibility">Private</ATT>
+            <ATT name="Name"><![CDATA[ElementImport]]></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="ImportedElement">
+              <ID name="Incrementar en un 30% la captación del mercado para finales del 2026" mc="Standard.Class" uid="44e529ac-8a54-4135-b8d5-885d21c85883"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="ON" mc="Infrastructure.Stereotype" uid="7b092997-d64e-49ce-a97b-74ee70b3a4d6"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

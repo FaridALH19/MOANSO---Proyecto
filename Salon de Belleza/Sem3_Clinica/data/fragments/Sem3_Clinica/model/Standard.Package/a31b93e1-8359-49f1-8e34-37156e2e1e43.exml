@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Modelado de Negocio" version="4">
+  <OBJECT>
+    <ID name="Modelado de Negocio" mc="Standard.Package" uid="a31b93e1-8359-49f1-8e34-37156e2e1e43"/>
+    <PID name="Sem3_Clinica" mc="Standard.Project" uid="6f9e3402-a988-4b55-bcf4-370a1e101555"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Modelado de Negocio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MCUN" mc="Standard.Package" uid="168ab184-0f54-4828-ba80-4f0ec4ab073d"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CUN" version="4">
+  <OBJECT>
+    <ID name="CUN" mc="Standard.Package" uid="f756a2c2-3027-471b-9521-3e7facde0229"/>
+    <PID name="MCUN" mc="Standard.Package" uid="4f6cb4ed-546a-447d-b680-748c7ed55dfe"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[CUN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Gestionar inventario" mc="Standard.UseCase" uid="7f709381-fae5-4f1b-b5c5-aa42b9a12427"/>
+        <COMPID name="Atender Cliente" mc="Standard.UseCase" uid="b6aca2aa-3337-4e21-a1b8-9d17fce68250"/>
+        <COMPID name="Adnimistracion del negocio" mc="Standard.UseCase" uid="8c0e8100-46f8-426f-a9da-6ddd103a6312"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

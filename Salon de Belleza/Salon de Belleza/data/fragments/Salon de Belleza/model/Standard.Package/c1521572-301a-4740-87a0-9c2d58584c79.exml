@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MAN" version="4">
+  <OBJECT>
+    <ID name="MAN" mc="Standard.Package" uid="c1521572-301a-4740-87a0-9c2d58584c79"/>
+    <PID name="Salon de Belleza (Milli's)" mc="Standard.Package" uid="900c493f-cd05-4c15-93e6-997784b2d440"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MAN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="TN" mc="Standard.Package" uid="fdf3bff3-857c-4bfc-abfb-6dfb6f57ef85"/>
+        <COMPID name="EN" mc="Standard.Package" uid="5dd562e4-dfb8-41e0-916d-1028c71743e2"/>
+        <COMPID name="RN" mc="Standard.Package" uid="ef9e5c6d-7abe-480e-9ddf-e6de6dbac61a"/>
+        <COMPID name="Cajero" mc="Standard.Class" uid="8631d094-1c79-46f1-bc2e-7e4ee64479d6"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="MAN" mc="Infrastructure.Stereotype" uid="497d1dac-75aa-49ae-be39-aff9581090c3"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de Clases de Negocio" mc="Standard.ClassDiagram" uid="272bd45b-7197-410a-8642-14bc97d9fa9a"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

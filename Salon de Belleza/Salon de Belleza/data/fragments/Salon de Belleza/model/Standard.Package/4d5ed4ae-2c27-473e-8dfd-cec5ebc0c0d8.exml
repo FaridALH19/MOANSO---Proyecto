@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RN_Controlar Consumo de Productos" version="4">
+  <OBJECT>
+    <ID name="RN_Controlar Consumo de Productos" mc="Standard.Package" uid="4d5ed4ae-2c27-473e-8dfd-cec5ebc0c0d8"/>
+    <PID name="RN" mc="Standard.Package" uid="ef9e5c6d-7abe-480e-9ddf-e6de6dbac61a"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RN_Controlar Consumo de Productos]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

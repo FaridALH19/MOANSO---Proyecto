@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Caso de Uso" version="4">
+  <OBJECT>
+    <ID name="Caso de Uso" mc="Standard.Package" uid="c971df7a-4e4d-4473-b5f6-92a5d4aaaa65"/>
+    <PID name="Modelo de Caso de Uso" mc="Standard.Package" uid="21140694-a7f3-42b8-a4b7-e0c84a5a3e23"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Caso de Uso]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Buscar Paciente(HC)" mc="Standard.UseCase" uid="e946f99d-8cc8-4885-a746-b270da5fef8d"/>
+        <COMPID name="Aperturar HC" mc="Standard.UseCase" uid="ad9046bf-ca32-4ba6-87a1-0061869550c4"/>
+        <COMPID name="Buscar Médico" mc="Standard.UseCase" uid="daae7fc3-ad53-45c9-9322-bb1015fec377"/>
+        <COMPID name="Registrar Cta por pagar" mc="Standard.UseCase" uid="1c60cb9c-980a-48ea-94f0-1244b0a39fd4"/>
+        <COMPID name="Buscar Orden de Atención" mc="Standard.UseCase" uid="45830ca4-f75e-40e4-83fe-a0bee49654c0"/>
+        <COMPID name="Generar Comprobante de pago" mc="Standard.UseCase" uid="5fb0abeb-a8e5-4ba7-8a2c-771917040485"/>
+        <COMPID name="Buscar deuda por pagar" mc="Standard.UseCase" uid="d7bddd4f-fa6a-4f4a-ba7f-2099294c7b8f"/>
+        <COMPID name="Contar detalle de órdenes" mc="Standard.UseCase" uid="f88b59ca-2264-4ad3-94e9-e2cddec2a66e"/>
+        <COMPID name="Generar cita" mc="Standard.UseCase" uid="f29ce077-5216-4a84-bed2-3062c2bb7ec8"/>
+        <COMPID name="Registrar Resultado de cita" mc="Standard.UseCase" uid="0368b444-1fd0-48f1-99e3-5526f023a60c"/>
+        <COMPID name="Buscar cita" mc="Standard.UseCase" uid="0cf9e3e5-8f46-488d-bd74-610aec8dc870"/>
+        <COMPID name="Registrar Receta" mc="Standard.UseCase" uid="b7066b7d-0c90-4f23-8245-a2fab341a5e2"/>
+        <COMPID name="Registrar Entrega de medicamentos" mc="Standard.UseCase" uid="03624e30-913f-4a1b-8d5d-f1e7b3a2d60b"/>
+        <COMPID name="Crear series de comprobantes" mc="Standard.UseCase" uid="a8a96d4d-756c-4880-8d17-5e2cfd3a20f3"/>
+        <COMPID name="Mantener Cajeros" mc="Standard.UseCase" uid="6ec7c76f-7220-4886-8988-08eea73d01f6"/>
+        <COMPID name="Generar Orden de Atención por Emergencia" mc="Standard.UseCase" uid="812e8be3-9b58-4371-bd85-1cfdd6af0e3c"/>
+        <COMPID name="Asignar comprobantes a cajeros" mc="Standard.UseCase" uid="2d8d959d-9e16-4a9a-bf7e-146d22fe66ea"/>
+        <COMPID name="Aperturar Caja" mc="Standard.UseCase" uid="0a3f0f6a-e8f5-4f20-a91e-6c71d8246c9b"/>
+        <COMPID name="Generar cuadre de caja" mc="Standard.UseCase" uid="8982aaca-ca45-4c58-88ac-9544e1dcb2c4"/>
+        <COMPID name="Cierre Caja" mc="Standard.UseCase" uid="4cf2a879-704e-41b6-a3ff-51b3fc886b51"/>
+        <COMPID name="Anular Comprobantes" mc="Standard.UseCase" uid="c787b00d-ad62-4b74-bf33-55d627b964d0"/>
+        <COMPID name="Ingresar Login" mc="Standard.UseCase" uid="4310c489-7389-4c39-a9e0-db11cb45f718"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="AN" version="4">
+  <OBJECT>
+    <ID name="AN" mc="Standard.Package" uid="422e021d-ad1d-4874-953b-6231dd02bec7"/>
+    <PID name="MCUN" mc="Standard.Package" uid="168ab184-0f54-4828-ba80-4f0ec4ab073d"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[AN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Paciente" mc="Standard.Actor" uid="a9603105-66d8-4bdf-ae1d-4e939cd9c3d1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

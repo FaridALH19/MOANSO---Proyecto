@@ -1,0 +1,11 @@
+#
+#Tue May 12 07:54:02 COT 2026
+ASSOC_SHOWROLES=false
+SUBPROCESS_SHOWCONTENT=true
+basestyle=default
+provider=Modelio
+ASSOC_SHOWCARD=false
+stylename=Modelio 5.3.x
+theme=true
+ASSOC_SHOWVISIBILITY=false
+ASSOC_CONNECTIONROUTER=BENDPOINT

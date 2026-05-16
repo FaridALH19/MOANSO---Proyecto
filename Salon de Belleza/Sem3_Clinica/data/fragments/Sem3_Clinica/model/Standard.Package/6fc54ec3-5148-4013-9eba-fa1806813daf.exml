@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Actor" version="4">
+  <OBJECT>
+    <ID name="Actor" mc="Standard.Package" uid="6fc54ec3-5148-4013-9eba-fa1806813daf"/>
+    <PID name="Modelo de Caso de Uso" mc="Standard.Package" uid="21140694-a7f3-42b8-a4b7-e0c84a5a3e23"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Actor]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Jefe de Enfermera" mc="Standard.Actor" uid="a1a4af5d-6f4d-4e25-a451-57b2dccb5d3a"/>
+        <COMPID name="Cajero" mc="Standard.Actor" uid="f44849aa-a959-43f9-a084-dcb5336112be"/>
+        <COMPID name="Recepcionista" mc="Standard.Actor" uid="5f52f675-758e-499c-9c2d-c2cca58333f4"/>
+        <COMPID name="Médico" mc="Standard.Actor" uid="63661b93-53db-404b-b627-f859e546d6c0"/>
+        <COMPID name="Técnico de Farmacia" mc="Standard.Actor" uid="1f07be5c-fd5e-4a91-992a-8090b74bd5dd"/>
+        <COMPID name="Administrador" mc="Standard.Actor" uid="015cf89e-5e4d-4935-84f8-ed34d6a53ad3"/>
+        <COMPID name="Enfermera" mc="Standard.Actor" uid="5ed378ab-266e-4f65-9966-861859b21e1a"/>
+        <COMPID name="Usuario" mc="Standard.Actor" uid="4c7ef010-50ef-47b2-8a64-49645d35a444"/>
+        <COMPID name="Actor" mc="Standard.Actor" uid="bfa272ec-7f54-4bc0-b3b5-7081ae51d42c"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

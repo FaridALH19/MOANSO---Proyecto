@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="LocalProfile" version="4">
+  <OBJECT>
+    <ID name="LocalProfile" mc="Infrastructure.Profile" uid="66e405f2-13b5-4e64-8fd2-3098ed06937b"/>
+    <PID name="LocalModule" mc="Infrastructure.ModuleComponent" uid="e19cc2d2-d983-42b8-8641-3fb02330e7fa"/>
+    <ATTRIBUTES>
+      <ATT name="Name"><![CDATA[LocalProfile]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="DefinedStereotype">
+        <COMPID name="MCUN" mc="Infrastructure.Stereotype" uid="c308af7e-0712-464c-842b-571f3d0b6d7f"/>
+        <COMPID name="ON" mc="Infrastructure.Stereotype" uid="ebdca291-416a-435b-8337-457bd2213580"/>
+        <COMPID name="CUN" mc="Infrastructure.Stereotype" uid="2737088a-9f2f-402c-89c8-5eab38f02044"/>
+        <COMPID name="AN" mc="Infrastructure.Stereotype" uid="34a1827d-5cfc-4c7b-b2dd-27b8fd0c5a07"/>
+        <COMPID name="MAN" mc="Infrastructure.Stereotype" uid="497d1dac-75aa-49ae-be39-aff9581090c3"/>
+        <COMPID name="TN" mc="Infrastructure.Stereotype" uid="bf10072b-e009-46a5-9d55-5f0f5c33de7c"/>
+        <COMPID name="EN" mc="Infrastructure.Stereotype" uid="95a7bcc8-7b8c-4a1f-b0de-645a48c745df"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

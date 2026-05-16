@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Salon de Belleza" version="4">
+  <OBJECT>
+    <ID name="Salon de Belleza" mc="Standard.Project" uid="190b2d37-9147-4b25-8327-2145bcd57bab"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Salon de Belleza]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="salon de belleza" mc="Standard.Package" uid="900c493f-cd05-4c15-93e6-997784b2d440"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Salon de Belleza" mc="Infrastructure.DiagramSet" uid="cfe997d9-f63b-4a05-bf36-4f8963f5032f"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

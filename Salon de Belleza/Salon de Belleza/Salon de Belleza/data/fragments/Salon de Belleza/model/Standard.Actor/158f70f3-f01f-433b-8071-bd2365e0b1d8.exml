@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Estilista " version="4">
+  <OBJECT>
+    <ID name="Estilista " mc="Standard.Actor" uid="158f70f3-f01f-433b-8071-bd2365e0b1d8"/>
+    <PID name="AN" mc="Standard.Package" uid="93fb7ba0-f6ff-4693-9c2c-0b91a6c51ce7"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Estilista ]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="AN" mc="Infrastructure.Stereotype" uid="34a1827d-5cfc-4c7b-b2dd-27b8fd0c5a07"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

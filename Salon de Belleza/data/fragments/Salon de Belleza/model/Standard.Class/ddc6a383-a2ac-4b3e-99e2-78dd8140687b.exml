@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Servicio" version="4">
+  <OBJECT>
+    <ID name="Servicio" mc="Standard.Class" uid="ddc6a383-a2ac-4b3e-99e2-78dd8140687b"/>
+    <PID name="EN" mc="Standard.Package" uid="5dd562e4-dfb8-41e0-916d-1028c71743e2"/>
+    <ATTRIBUTES>
+      <ATT name="IsActive">false</ATT>
+      <ATT name="IsMain">false</ATT>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Servicio]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="EN" mc="Infrastructure.Stereotype" uid="95a7bcc8-7b8c-4a1f-b0de-645a48c745df"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

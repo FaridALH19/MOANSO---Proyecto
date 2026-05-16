@@ -1,0 +1,13 @@
+#Fri May 08 11:02:40 COT 2026
+org.modelio.app.diagram.editor.OpenedDiagrams10='Diagrama de clases de Analisis' {91901a98-dddf-4214-9f0b-0ee30616e125} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams11='Diagrama de Comunicaciones Flujo_Basico' {b2b8cf2b-6b37-4f4c-a505-5f60b7cc1e04} Standard.CommunicationDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams9='Diagrama de comunicaciones_FlujoBasico' {5bf4d831-d0f2-42b9-aac9-23ec3d032838} Standard.CommunicationDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams0='Diagrama de Objetivos del Negocio' {598c5389-16c7-4101-be0e-72ed3d33b937} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams3='Diagrama General de Caso de Uso' {cb4cbcc8-0a16-4d8e-a24a-c5eb95243bbe} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams4='Arquitectura del An\u00E1lisis' {02d65607-8d0a-415b-bc5e-8c045070366b} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams1='Diagrama General de Caso de Uso del Negocio' {3f560b7a-b810-4cd3-9b0a-0f8b138e004f} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams2='Diagrama ON vs CUN' {f18e8f99-e617-4849-8764-f6c832cf1cf0} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams7='Diagrama de clases de Analisis' {e0d22179-dd33-488c-a83a-280103e825a4} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams8='Diagrama General de Caso de Uso seg\u00FAn el an\u00E1lisis' {ef073e3a-1df6-4a8d-88eb-de2fe1faabf9} Standard.UseCaseDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams5='Diagrama de Clases del Analisis' {b215f3dd-4aaf-41df-a828-d151562722d5} Standard.ClassDiagram
+org.modelio.app.diagram.editor.OpenedDiagrams6='Diagrama de Comunicaciones' {e18e8b99-a0ac-4e59-bf63-0c2dc6b8b517} Standard.CommunicationDiagram

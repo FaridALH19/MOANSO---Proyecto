@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Administrador" version="4">
+  <OBJECT>
+    <ID name="Administrador" mc="Standard.Actor" uid="3d272a9c-d4f6-4ba3-a64d-3fd9adaedec6"/>
+    <PID name="AN" mc="Standard.Package" uid="93fb7ba0-f6ff-4693-9c2c-0b91a6c51ce7"/>
+    <ATTRIBUTES>
+      <ATT name="IsElementary">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Administrador]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <LINK relation="Extension">
+        <ID name="AN" mc="Infrastructure.Stereotype" uid="34a1827d-5cfc-4c7b-b2dd-27b8fd0c5a07"/>
+      </LINK>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

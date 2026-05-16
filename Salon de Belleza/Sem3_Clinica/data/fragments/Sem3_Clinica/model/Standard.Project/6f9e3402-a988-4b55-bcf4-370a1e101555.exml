@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Sem3_Clinica" version="4">
+  <OBJECT>
+    <ID name="Sem3_Clinica" mc="Standard.Project" uid="6f9e3402-a988-4b55-bcf4-370a1e101555"/>
+    <ATTRIBUTES>
+      <ATT name="ProjectContext"></ATT>
+      <ATT name="ProjectDescr"></ATT>
+      <ATT name="Name"><![CDATA[Sem3_Clinica]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Model">
+        <COMPID name="Modelado de Negocio" mc="Standard.Package" uid="a31b93e1-8359-49f1-8e34-37156e2e1e43"/>
+        <COMPID name="Modelo de Caso de Uso" mc="Standard.Package" uid="21140694-a7f3-42b8-a4b7-e0c84a5a3e23"/>
+        <COMPID name="Modelo de Análisis" mc="Standard.Package" uid="44753d3d-ff11-41ad-bb02-2f7dbbdc57ff"/>
+      </COMP>
+      <COMP relation="DiagramRoot">
+        <COMPID name="Sem3_Clinica" mc="Infrastructure.DiagramSet" uid="5ecdfe56-0265-48f3-9073-06ff0b337fed"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

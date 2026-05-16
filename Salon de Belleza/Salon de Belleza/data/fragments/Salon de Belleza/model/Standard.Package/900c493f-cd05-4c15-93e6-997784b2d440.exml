@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="Salon de Belleza (Milli's)" version="4">
+  <OBJECT>
+    <ID name="Salon de Belleza (Milli's)" mc="Standard.Package" uid="900c493f-cd05-4c15-93e6-997784b2d440"/>
+    <PID name="Salon de Belleza" mc="Standard.Project" uid="190b2d37-9147-4b25-8327-2145bcd57bab"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[Salon de Belleza (Milli's)]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="MCUN" mc="Standard.Package" uid="4f6cb4ed-546a-447d-b680-748c7ed55dfe"/>
+        <COMPID name="MAN" mc="Standard.Package" uid="c1521572-301a-4740-87a0-9c2d58584c79"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

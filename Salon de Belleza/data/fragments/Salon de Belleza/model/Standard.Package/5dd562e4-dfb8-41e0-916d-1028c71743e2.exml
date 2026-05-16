@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="EN" version="4">
+  <OBJECT>
+    <ID name="EN" mc="Standard.Package" uid="5dd562e4-dfb8-41e0-916d-1028c71743e2"/>
+    <PID name="MAN" mc="Standard.Package" uid="c1521572-301a-4740-87a0-9c2d58584c79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[EN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Inventario" mc="Standard.Class" uid="48335a35-692b-41b0-95df-95f322084ef2"/>
+        <COMPID name="Servicio" mc="Standard.Class" uid="ddc6a383-a2ac-4b3e-99e2-78dd8140687b"/>
+        <COMPID name="Transacion Inventario" mc="Standard.Class" uid="6dfd510e-d404-42a2-8667-ef547ca20411"/>
+        <COMPID name="Asistencia" mc="Standard.Class" uid="df2fcdb1-b2ab-4989-8c80-acb1783e4daf"/>
+        <COMPID name="DetallerServicio" mc="Standard.Class" uid="ccac4196-dc06-4e8b-a14a-4a2ffd29dedf"/>
+        <COMPID name="Producto" mc="Standard.Class" uid="c026b1b1-61a9-4614-abf3-c082bc9737fc"/>
+        <COMPID name="Pago" mc="Standard.Class" uid="cfb3dd63-ec52-4150-82cd-57532670a243"/>
+        <COMPID name="Boleta" mc="Standard.Class" uid="13ba7343-8aad-4b3c-a5e9-18d6dc3f7515"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="CUN" version="4">
+  <OBJECT>
+    <ID name="CUN" mc="Infrastructure.Stereotype" uid="2737088a-9f2f-402c-89c8-5eab38f02044"/>
+    <PID name="LocalProfile" mc="Infrastructure.Profile" uid="66e405f2-13b5-4e64-8fd2-3098ed06937b"/>
+    <ATTRIBUTES>
+      <ATT name="Image"></ATT>
+      <ATT name="Icon"><![CDATA[CUN.png]]></ATT>
+      <ATT name="IsHidden">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="LabelKey"><![CDATA[CUN]]></ATT>
+      <ATT name="BaseClassName"><![CDATA[Standard.UseCase]]></ATT>
+      <ATT name="Name"><![CDATA[CUN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES></DEPENDENCIES>
+  </OBJECT>
+</EXT>

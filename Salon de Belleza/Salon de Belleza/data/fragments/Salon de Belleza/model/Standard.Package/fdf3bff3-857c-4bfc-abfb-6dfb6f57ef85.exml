@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="TN" version="4">
+  <OBJECT>
+    <ID name="TN" mc="Standard.Package" uid="fdf3bff3-857c-4bfc-abfb-6dfb6f57ef85"/>
+    <PID name="MAN" mc="Standard.Package" uid="c1521572-301a-4740-87a0-9c2d58584c79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[TN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Estilista" mc="Standard.Class" uid="afbbb204-6b1c-48be-a48f-77a6b293728b"/>
+        <COMPID name="Administrador" mc="Standard.Class" uid="aa73b24d-19c7-4fe5-a232-4018dacca90b"/>
+        <COMPID name="Alamacenero (Palmer)" mc="Standard.Class" uid="e86219ec-5e7d-42f0-99fe-b6f659498800"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

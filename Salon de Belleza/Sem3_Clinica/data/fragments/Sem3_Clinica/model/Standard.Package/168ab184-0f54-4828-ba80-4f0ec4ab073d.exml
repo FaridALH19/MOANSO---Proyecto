@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="MCUN" version="4">
+  <OBJECT>
+    <ID name="MCUN" mc="Standard.Package" uid="168ab184-0f54-4828-ba80-4f0ec4ab073d"/>
+    <PID name="Modelado de Negocio" mc="Standard.Package" uid="a31b93e1-8359-49f1-8e34-37156e2e1e43"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[MCUN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="ON" mc="Standard.Package" uid="895a766b-efad-465e-9e63-e12d031116ee"/>
+        <COMPID name="CUN" mc="Standard.Package" uid="f056ad3f-9704-4eea-9f6e-73927185e4ce"/>
+        <COMPID name="AN" mc="Standard.Package" uid="422e021d-ad1d-4874-953b-6231dd02bec7"/>
+      </COMP>
+      <LINK relation="Extension">
+        <ID name="MCUN" mc="Infrastructure.Stereotype" uid="74fcb56b-93b0-4719-8335-2755a5a6c7a1"/>
+      </LINK>
+      <COMP relation="Product">
+        <COMPID name="Diagrama General de Caso de Uso del Negocio" mc="Standard.UseCaseDiagram" uid="3f560b7a-b810-4cd3-9b0a-0f8b138e004f"/>
+        <COMPID name="Diagrama ON vs CUN" mc="Standard.ClassDiagram" uid="f18e8f99-e617-4849-8764-f6c832cf1cf0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="ON" version="4">
+  <OBJECT>
+    <ID name="ON" mc="Standard.Package" uid="969a9597-9186-4e72-a4b8-230f5c50270b"/>
+    <PID name="MCUN" mc="Standard.Package" uid="4f6cb4ed-546a-447d-b680-748c7ed55dfe"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[ON]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="Garantizar el registro del 100% de las ventas y pagos realizados en el salón antes de octubre de 2026." mc="Standard.Class" uid="2f6d86eb-a074-44cf-948e-24da33aa1f33"/>
+        <COMPID name="Reducir en un 35% las pérdidas de productos por falta de control de inventario antes de diciembre de 2026." mc="Standard.Class" uid="3a754110-a2c2-4f14-9d75-180869d51300"/>
+        <COMPID name="Realizar la trazabilidad del 100% del consumo de productos antes de diciembre de 2026." mc="Standard.Class" uid="dc3acab8-76c2-47ac-94c2-e06465222bf6"/>
+        <COMPID name="Reducir en un 20% el tiempo de atencion del cliente para diciembre del 2026" mc="Standard.Class" uid="66e58754-d275-4be3-8bec-ba8d7b09d5c9"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="Diagrama de Objetivos del Negocio" mc="Standard.ClassDiagram" uid="ee7fc5b7-76bb-47af-a2a7-b273c5de5f04"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

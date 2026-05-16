@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="RN" version="4">
+  <OBJECT>
+    <ID name="RN" mc="Standard.Package" uid="ef9e5c6d-7abe-480e-9ddf-e6de6dbac61a"/>
+    <PID name="MAN" mc="Standard.Package" uid="c1521572-301a-4740-87a0-9c2d58584c79"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[RN]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedElement">
+        <COMPID name="RN_Gestion del servicio al cliente" mc="Standard.Package" uid="82f78a04-4a13-4a80-a83e-559dcfb833d1"/>
+        <COMPID name="RN_Evaluar Productividad del Personal" mc="Standard.Package" uid="bd06bde0-00cb-4ad2-8905-999781653272"/>
+        <COMPID name="RN_Gestionar la adquisicion de insumos" mc="Standard.Package" uid="cb5b5b06-3efb-4106-aa89-634d349ceba0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
